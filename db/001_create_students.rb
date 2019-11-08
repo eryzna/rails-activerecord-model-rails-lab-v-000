@@ -1,4 +1,4 @@
-class CreateStudents 
+class CreateStudents
   create :students do |t|
     t.string :first_name
     t.string :last_name
